@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/qwerty/static/css/main.b1e936cb.chunk.css",
+    "main.js": "/qwerty/static/js/main.62e24ee4.chunk.js",
+    "main.js.map": "/qwerty/static/js/main.62e24ee4.chunk.js.map",
+    "runtime-main.js": "/qwerty/static/js/runtime-main.6cf92b4f.js",
+    "runtime-main.js.map": "/qwerty/static/js/runtime-main.6cf92b4f.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/qwerty/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.e7e24cc0.chunk.js": "/qwerty/static/js/2.e7e24cc0.chunk.js",
+    "static/js/2.e7e24cc0.chunk.js.map": "/qwerty/static/js/2.e7e24cc0.chunk.js.map",
+    "index.html": "/qwerty/index.html",
+    "precache-manifest.d0904e7cea237b3e016896627c3064f4.js": "/qwerty/precache-manifest.d0904e7cea237b3e016896627c3064f4.js",
+    "service-worker.js": "/qwerty/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/qwerty/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.b1e936cb.chunk.css.map": "/qwerty/static/css/main.b1e936cb.chunk.css.map",
+    "static/js/2.e7e24cc0.chunk.js.LICENSE.txt": "/qwerty/static/js/2.e7e24cc0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/qwerty/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cf92b4f.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.e7e24cc0.chunk.js",
+    "static/css/main.b1e936cb.chunk.css",
+    "static/js/main.62e24ee4.chunk.js"
+  ]
+}
